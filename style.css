@@ -21,15 +21,13 @@ box-shadow: 40px 0px 90px #808080, -40px 0px 90px #808080;
   height: 100%;
   border: 10px inset gray;
 }
-    .pepe1 {
+.pepe1 {
         margin-left: 20%;
         margin-right: 20%;
     }
 
-button {
-   position: fixed;
-      background-color: green;
-  }
+
+  
 body {
  
   background-image: url(https://www.impericon.com/media/catalog/product/p/e/pendulum-tapestry_lg.jpg);
